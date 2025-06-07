@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2025-06-06T20:02:49.8704320Z||;True|2025-06-06T14:17:47.0906743+02:00||;</History>
+    <LastFailureDetails />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApFoebbV4PkOGdnDIdhG+IAAAAAACAAAAAAAQZgAAAAEAACAAAADkRyWzOP5ALW/grN0hlgftpxUXNE1remaiwGRH+UnXpQAAAAAOgAAAAAIAACAAAAAl4NNPfFgHuVd8tAQ6uTK7wfHWyYt5iFQt2SqpqsEy44AAAADdJuZugRsdPgq8xPYU6nhOfRPizThzNWLpV+l4OkehLwsekdIBHNTc10XphTF6QHMBTHzGHwuo4qRBP84gxt5VUrq2GehZxuNkR1YTYtOzuxntFplm7jePvZuQ8+K4NBB0b9Zstno/5PFMWNRX1jwfZ6Nl1g/gTwWyRTdu/TCg2kAAAAD9BJKbNpZOBGk+tyyFxYoDzhT71LoXz+m7SNbaSRwYSN8+c3ErNRslqeoQuC4s0tN39RXd8A2QcqSolz3DWpIM</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="REDACTED" />
+    <AzureDBConnectionStrings Include="Server=tcp:ventixe-server-test.database.windows.net,1433;Initial Catalog=ventixe-bookings;Persist Security Info=False;User ID=StefanADMIN;Password=Tomass50+;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30" />
+  </ItemGroup>
+</Project>
